@@ -16,6 +16,16 @@ const routes = [
     path: '/contact',
     name: 'contact',
     component: () => import('../views/contact.vue')
+  },
+  {
+    path: '/Grade',
+    name: 'Grade',
+    component: () => import('../views/Grade.vue')
+  },
+  {
+    path: '/golds',
+    name: 'golds',
+    component: () => import('../views/Api_golds.vue')
   }
 ]
 
