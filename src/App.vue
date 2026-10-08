@@ -29,9 +29,9 @@
               API
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="golds">ราคาทอง</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="/golds">ราคาทอง</a></li>
+              <li><a class="dropdown-item" href="/product_api">สินค้า</a></li>
+              <li><a class="dropdown-item" href="users">ผู้ใช้</a></li>
             </ul>
           </li>
         </ul>
